@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # load your DataFrame here
-df=pd.read_csv("C:\\Users\\DELL\\Downloads\\Expt 3 MAPE\\predict2.csv") # Predicted values in CSV
+df=pd.read_csv("./Models_and_Data/predict2.csv") # Predicted values in CSV
 df=df.drop(df.columns[0], axis=1)
 # select only the 2023 year dates from Date column
 df = df[df['Date'].str.contains('2023')]
