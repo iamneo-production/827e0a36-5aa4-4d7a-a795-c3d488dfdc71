@@ -14,11 +14,11 @@ if add_selectbox == "AQI Prediction":
 
     curr_selection=st.selectbox("Select a Location", ["Adilabad", "Nizamabad", "Warangal", "Karimnagar", "Khammam"])
     # load your DataFrame here for AQI prediction
-    df_adilabad=pd.read_csv("PredictionFiles\\Adilabadpreds.csv")
-    df_nizamabad=pd.read_csv("PredictionFiles\\Nizamabadpreds.csv")
-    df_warangal=pd.read_csv("PredictionFiles\\Warangalpreds.csv")
-    df_karimnagar=pd.read_csv("PredictionFiles\\Karimnagarpreds.csv")
-    df_khammam=pd.read_csv("PredictionFiles\\Khammampreds.csv")
+    df_adilabad=pd.read_csv("PredictionFiles/Adilabadpreds.csv")
+    df_nizamabad=pd.read_csv("PredictionFiles/Nizamabadpreds.csv")
+    df_warangal=pd.read_csv("PredictionFiles/Warangalpreds.csv")
+    df_karimnagar=pd.read_csv("PredictionFiles/Karimnagarpreds.csv")
+    df_khammam=pd.read_csv("PredictionFiles/Khammampreds.csv")
 
 
     def show(df):
@@ -61,11 +61,11 @@ if add_selectbox == "Heatwave prediction":
 
     curr_selection = st.selectbox("Select a Location", ["Adilabad", "Nizamabad", "Warangal", "Karimnagar", "Khammam"])
     # load your DataFrame here for Heatwave Prediction
-    df_adilabad_heat = pd.read_csv("PredictionFiles\\AdilabadUrbanMaxTpredict.csv")
-    df_nizamabad_heat = pd.read_csv("PredictionFiles\\NizamabadMaxTpredict.csv")
-    df_warangal_heat = pd.read_csv("PredictionFiles\\WarangalMaxTpredict.csv")
-    df_karimnagar_heat = pd.read_csv("PredictionFiles\\KarimnagarMaxTpredict.csv")
-    df_khammam_heat = pd.read_csv("PredictionFiles\\KhammamMaxTpredict.csv")
+    df_adilabad_heat = pd.read_csv("PredictionFiles/AdilabadUrbanMaxTpredict.csv")
+    df_nizamabad_heat = pd.read_csv("PredictionFiles/NizamabadMaxTpredict.csv")
+    df_warangal_heat = pd.read_csv("PredictionFiles/WarangalMaxTpredict.csv")
+    df_karimnagar_heat = pd.read_csv("PredictionFiles/KarimnagarMaxTpredict.csv")
+    df_khammam_heat = pd.read_csv("PredictionFiles/KhammamMaxTpredict.csv")
 
     def show(df):
         st.header("Showing for {}".format(curr_selection))
