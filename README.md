@@ -25,6 +25,13 @@ requirements.txt: contains the Python dependencies required to run the project
 # Getting Started
 To get started with this project, you will need to clone the repository and install the Python dependencies listed in requirements.txt. Once the dependencies are installed, you can explore the Jupyter notebooks in the notebooks directory to see how the model is trained and evaluated.
 
+## Screenshots-
+<p float="left">
+<img src = "https://i.imgur.com/AaqRfLF.png" width=500>
+<img src= "https://i.imgur.com/cuIq4sn.png" width=500>
+</p>
+
+
 ## Conclusion
 In this project, we have used NeuralProphet to predict heatwaves and air quality. The model is trained on pre-processed data and is designed to handle missing values and seasonality. The project structure allows for easy exploration and modification of the model. With further refinement and tuning, this model can be used to provide valuable insights and predictions for people living in areas prone to extreme weather events.
 
