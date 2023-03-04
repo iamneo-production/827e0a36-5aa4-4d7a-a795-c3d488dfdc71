@@ -29,7 +29,9 @@ To get started with this project, you will need to clone the repository and inst
 <p float="left">
 <img src = "https://i.imgur.com/AaqRfLF.png" width=500>
 <img src= "https://i.imgur.com/cuIq4sn.png" width=500>
+<img src="https://i.imgur.com/eD0a2Px.png" width=500>
 </p>
+The Fig 1. (Left) Shows the Trends and Seasonality, Fig 2. (Right) Shows the prediction vs actual data (the model fitting), Fig 3. (Bottom) Shows the correlation heatmap
 
 
 ## Conclusion
