@@ -33,9 +33,15 @@ To get started with this project, you will need to clone the repository and inst
 </p>
 The Fig 1. (Left) Shows the Trends and Seasonality, Fig 2. (Right) Shows the prediction vs actual data (the model fitting), Fig 3. (Bottom) Shows the correlation heatmap
 
+## Team- 
+- Abhinandan Roul
+- Shubhaprasad Padhy <br>
+Siksha 'O' Anusandhan Deemed to be University
 
 ## Conclusion
 In this project, we have used NeuralProphet to predict heatwaves and air quality. The model is trained on pre-processed data and is designed to handle missing values and seasonality. The project structure allows for easy exploration and modification of the model. With further refinement and tuning, this model can be used to provide valuable insights and predictions for people living in areas prone to extreme weather events.
+
+
 
 https://sonarcloud.io/summary/overall?id=examly-test_827e0a36-5aa4-4d7a-a795-c3d488dfdc71
 
