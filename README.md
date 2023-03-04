@@ -1,5 +1,5 @@
 # AQI and Heatwave Prediction- StellarHackers
-Use the Link for Live Demo- https://abhinandanroul-827e0a36-5aa4-4d7a-a795-c3d488dfdc71-main-1rmle1.streamlit.app/
+Use the Link for Live Demo- https://abhinandanroul-827e0a36-5aa4-4d7a-a795-c3d488dfdc71-main-1rmle1.streamlit.app/ <br>
 The PDF- https://drive.google.com/drive/folders/1boXHBMH1thsVF6GClaBYPPODhWB09ru2?usp=sharing
 
 ## About the Project-
@@ -24,6 +24,9 @@ requirements.txt: contains the Python dependencies required to run the project
 
 # Getting Started
 To get started with this project, you will need to clone the repository and install the Python dependencies listed in requirements.txt. Once the dependencies are installed, you can explore the Jupyter notebooks in the notebooks directory to see how the model is trained and evaluated.
+
+## Conclusion
+In this project, we have used NeuralProphet to predict heatwaves and air quality. The model is trained on pre-processed data and is designed to handle missing values and seasonality. The project structure allows for easy exploration and modification of the model. With further refinement and tuning, this model can be used to provide valuable insights and predictions for people living in areas prone to extreme weather events.
 
 https://sonarcloud.io/summary/overall?id=examly-test_827e0a36-5aa4-4d7a-a795-c3d488dfdc71
 
