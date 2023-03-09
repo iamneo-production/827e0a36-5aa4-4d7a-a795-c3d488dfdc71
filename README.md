@@ -1,6 +1,6 @@
 # AQI and Heatwave Prediction- StellarHackers
 Use the Link for Live Demo- https://abhinandanroul-827e0a36-5aa4-4d7a-a795-c3d488dfdc71-main-1rmle1.streamlit.app/ <br>
-The PDF- https://drive.google.com/drive/folders/1boXHBMH1thsVF6GClaBYPPODhWB09ru2?usp=sharing
+The PDF- https://drive.google.com/file/d/1Yl2vcQUPwO8wKBozw5jjj_KW0xbvYXrV/view
 
 ## About the Project-
 This project uses AR-Net (Neuralprophet), a neural network-based forecasting library, to predict heatwaves🔥 and air✨ quality. The goal of this project is to create a model that can accurately predict the occurrence of heatwaves and poor air quality to help people prepare for and mitigate the effects of extreme weather events.
